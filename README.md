@@ -31,11 +31,11 @@ In just a few simple steps below, you can build and deploy the microservices to 
 
 Clone this github repository to your local workstation:
 ```
-git clone https://github.com/kpostreich/m2m-ws-sample
+git clone https://github.com/kpostreich/m2m-ws-lab-artifacts
 ```
 Change directory to the refactored microservices source code:
 ```
-cd ./m2m-ws-sample/defaultapplication/microservices/
+cd ./m2m-ws-lab-artifacts/defaultapplication/microservices/
 ```
 
 First, create a Docker network for the microservices to communicate:
